@@ -2,6 +2,7 @@
 /Build
 /index
 /D
+/DerivedData
 *.xcactivitylog
 .DS_Store
 *.db
