@@ -1,1 +1,8 @@
 /build
+/Build
+/index
+/D
+*.xcactivitylog
+.DS_Store
+*.db
+DerivedData/FM_Test/TextIndex/TextFragmentIndex-v7.idx
